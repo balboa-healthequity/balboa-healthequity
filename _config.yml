@@ -187,10 +187,10 @@ exclude:
   - package*.json
 
 jekyll-archives:
-  enabled: [categories, tags]
+  enabled: [categories, tags.md]
   layouts:
     category: category
     tag: tag
   permalinks:
-    tag: /tags/:name/
+    tag: /tags.md/:name/
     category: /categories/:name/

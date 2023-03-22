@@ -4,7 +4,7 @@
 
  See: <https://css-tricks.com/snippets/jquery/smooth-scrolling/>
 
- Warning: It must be called after all `<a>` tags (e.g., the dynamic TOC) are ready.
+ Warning: It must be called after all `<a>` tags.md (e.g., the dynamic TOC) are ready.
  */
 
 $(function () {
