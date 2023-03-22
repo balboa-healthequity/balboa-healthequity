@@ -3,6 +3,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<a data-quiz="QMGBGWM5F" data-type=4 href="https://take.quiz-maker.com/QMGBGWM5F">Loading...</a>
-
-<script>(function(i,s,o,g,r,a,m){var ql=document.querySelectorAll('A[quiz],DIV[quiz],A[data-quiz],DIV[data-quiz]'); if(ql){if(ql.length){for(var k=0;k<ql.length;k++){ql[k].id='quiz-embed-'+k;ql[k].href="javascript:var i=document.getElementById('quiz-embed-"+k+"');try{qz.startQuiz(i)}catch(e){i.start=1;i.style.cursor='wait';i.style.opacity='0.5'};void(0);"}}};i['QP']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://take.quiz-maker.com/3012/CDN/quiz-embed-v1.js','qp');</script>
+<iframe name="opinionstage-widget" src="https://www.opinionstage.com/api/v2/widgets/08ee8e4e-9d5b-4bd0-84f3-c8908b3886e4/iframe?em=1" data-opinionstage-iframe="08ee8e4e-9d5b-4bd0-84f3-c8908b3886e4" width="100%" height="800" scrolling="auto" style="border: none;" frameBorder="0" allow="fullscreen" webkitallowfullscreen="true" mozallowfullscreen="true" referrerpolicy="no-referrer-when-downgrade"></iframe>
