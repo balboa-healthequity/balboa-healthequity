@@ -7,12 +7,11 @@ order: 3
 {: .prompt-tip }
 
 ## **[SAMHSA’s National Helpline](https://www.samhsa.gov/find-help/national-helpline)**
-- 1-800-662-HELP (4357) (also known as the Treatment Referral Routing Service)
-- TTY: 1-800-487-4889
-- This is a confidential, free, 24-hour-a-day, 365-day-a-year, information service, in English and Spanish, for individuals and family members facing mental and/or substance use disorders.
+- 1-800-662-HELP (4357)
+- FREE and CONFIDENCIAL 24/7 information service, in English and Spanish, for anyone facing mental and/or substance use disorders.
 
 ## **[988 Suicide & Crisis Lifeline](https://988lifeline.org/current-events/the-lifeline-and-988/)**
-- A national network of local crisis centers that provides free and confidential emotional support to people in suicidal crisis or emotional distress 24 hours a day, 7 days a week in the United States.
+- A national network of local crisis centers that provides FREE and CONFIDENTIAL emotional support to people in suicidal crisis or emotional distress. It operates 24/7 in the United States.
 
 ## **[Community Health Programs for Youth (CHPY)](https://www.sfdph.org/dph/files/CHPY-PocketBrochure.pdf)**
 - FREE healthcare and counseling for youth ages 12-25
@@ -27,16 +26,16 @@ order: 3
 ## **[Mission Neighborhood Health Center (MNHC)](https://www.mnhc.org/medical-services-categories/san-francisco-teen-clinic/)**
 - Phone: (415) 406-1353
 - Address: [4434 Mission St, San Francisco, CA 94112](https://goo.gl/maps/iXtb887fmn4Xb4vc8)
-- Offers sensitive, respectful and non-judgmental services that are FREE and CONFIDENTIAL for all young people of all genders from ages 12 to 21.
+- Offers sensitive, respectful and non-judgmental services that are FREE and CONFIDENTIAL for all young people ages 12 to 21.
 
 ## **[Teen Line](https://www.teenline.org/)**
 - Call: (800) 852-8336 (6 pm – 10 pm PST)
 - Text: TEEN to 839863 (6 pm – 10 pm PST)
-- Offering anonymous support for teenagers by phone, text or email.
+- Offering FREE and CONFIDENTIAL support for teenagers by phone, text or email.
 
 ## **[New Generation Health Center](https://newgen.ucsf.edu/)**
 - Phone: (415) 502-8336 (502-TEEN)
 - Hours: M 12:30pm-5:00pm; Tu/Th 1:00pm-6:00pm; W 8:30 am-5:00 pm; F 8:30 am-4:30 pm
 - Serve ages 12 & Up
-- New Gen provides reproductive health services and STD testing.
+- Provides reproductive health services and STD testing.
 - Drop in visits welcome or call to make an appointment.
