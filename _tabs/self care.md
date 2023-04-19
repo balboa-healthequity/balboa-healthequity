@@ -4,6 +4,8 @@ order: 1
 title: Self Care
 ---
 
+![Self Care Title](../assets/img/selfcaretitle.jpeg)
+
 ## What is self care and what can it help you with?
 Self care is the different ways that you can take care of yourself and your mental and physical health. Self care is also a coping mechanism that can help you deal with daily stress and other things that can impact your mental health and overall well being. Self care can be anything that makes you feel good like exercise, mindfulness, eating healthy, journaling, and hanging out with friends.
 
