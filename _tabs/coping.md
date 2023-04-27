@@ -47,6 +47,8 @@ Some examples of coping skills are:
 
 ## **Toxic coping mechanisms: What are toxic or unhealthy coping mechanisms and what do they look like?**
 
+![Toxic Coping Mechanisms](../assets/img/toxiccoping.jpeg)
+
 Toxic coping mechanisms are ways in which we cope that aren't healthy for us. They are ways that people cope that are harmful and may make the problems we have worse.
 
 Toxic copings are things like:

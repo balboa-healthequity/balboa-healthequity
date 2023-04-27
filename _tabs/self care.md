@@ -20,6 +20,7 @@ Self care is the different ways that you can take care of yourself and your ment
     <p>Mindfulness allows you to focus on yourself and on one thing at a time.</p>
     <p>You stay in the present, and be mindful of your emotions and surroundings. Some common forms of mindfulness are meditation, and breathing exercises. Setting time for mindfulness often and trying to be consistent about it is how you get the most benefits. In addition, it's good to start small with a couple of minutes of mindfulness if you are not used to it because then you can build consistency and after that you can start to do mindfulness or meditation for longer periods of time.</p>
   </div>
+
   ![Mindfulness](../assets/img/minedfulness.jpeg)
 - <div class="collapsible">
     <p>Journaling: Writing how you feel</p>

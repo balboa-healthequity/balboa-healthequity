@@ -3,6 +3,8 @@ icon: fas fa-info-circle
 order: 3
 ---
 
+![Resources](../assets/img/resources.jpeg)
+
 > All titles are clickable, link to the website of the resource.
 {: .prompt-tip }
 
